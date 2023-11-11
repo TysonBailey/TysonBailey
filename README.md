@@ -1,5 +1,5 @@
 ### Hi there 👋
- My name is Tyson Bailey, I am a current ETSU student who is facisnated with computers. From a young age I began using computers to do all sorts of things. I have worked with multiple coding languages and still attempting to learn more, the ones I currently know pretty well include: Java, HTML, C# and SQL. I also have knowledge using Linux CLIs and scripting.
+ My name is Tyson Bailey, I am a current ETSU student who is fascinated with computers. From a young age, I began using computers to do all sorts of things. I have worked with multiple coding languages and still attempting to learn more, the ones I currently know pretty well include Java, HTML, C#, and SQL. I also have knowledge of using Linux CLIs and scripting.
 <!--
 **TysonBailey/TysonBailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
